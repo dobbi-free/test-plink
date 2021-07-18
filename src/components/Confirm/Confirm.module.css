@@ -69,4 +69,13 @@
     box-shadow: 0 0 0 1px;
 }
 
+@media (max-width: 400px) {
+    .title{
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
 
+    .confirm{
+        padding: 0 20px;
+    }
+}
