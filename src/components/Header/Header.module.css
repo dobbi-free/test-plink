@@ -1,0 +1,25 @@
+
+.header{
+    height: 60px;
+    background-color: #88a1a1;
+}
+
+.logo_wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.logo{
+    text-align: center;
+    text-decoration: none;
+    font-size: 24px;
+    line-height: 58px;
+    color: #424545;
+    transition: all ease 400ms;
+}
+
+.logo:hover{
+    transform: scale(1.1);
+    transition: all ease 400ms;
+    color:#dde2e8;
+}
